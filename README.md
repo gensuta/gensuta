@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Geneva</h1>
 <h3 align="center">An eager software engineer from Brooklyn, NY</h3>
 
-- 👨‍💻 You can check out my portfolio [https://gensuta.github.io/](https://gensuta.github.io/)
+- 👨‍💻 You can check out my portfolio: [https://gensuta.github.io/](https://gensuta.github.io/)
 
-- 💬 Ask me about **game development**
+- 💬 Ask me about: **Game Development**
 
-- 📫 How to reach me **heyward.genav@gmail.com**
+- 📫 How to reach me: **heyward.genav@gmail.com**
 
-- ⚡ Fun fact **I have a deep love for rhythm games and interactive narrative experiences.**
+- ⚡ Fun fact: **I have a deep love for rhythm games and interactive narrative experiences.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
