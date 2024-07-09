@@ -5,7 +5,7 @@
 
 - 💬 Ask me about: **Game Development**
 
-- 📫 How to reach me: **heyward.genav@gmail.com**
+- 📫 How to reach me: **heyward.geneva@gmail.com**
 
 - ⚡ Fun fact: **I have a deep love for rhythm games and interactive narrative experiences.**
 
